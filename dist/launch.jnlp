@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/Admin/Documents/NetBeansProjects/ATMInterface-12162015/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>ATMInterface</title>
+        <vendor>Ramirez</vendor>
+        <homepage href=""/>
+        <description>ATMInterface</description>
+        <description kind="short">ATMInterface</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.7+"/>
+        <jar href="ATMInterface.jar" main="true"/>
+    <jar href="lib/gson-2.3.1.jar"/>
+</resources>
+    <application-desc main-class="atminterface.ATMInterface">
+    </application-desc>
+</jnlp>
