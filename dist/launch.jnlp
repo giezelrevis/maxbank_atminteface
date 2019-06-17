@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<jnlp codebase="file:/C:/Users/Admin/Documents/NetBeansProjects/ATMInterface-12162015/dist/" href="launch.jnlp" spec="1.0+">
+<jnlp codebase="file:/C:/Users/Admin/Documents/GitHub/maxbank_atminteface/dist/" href="launch.jnlp" spec="1.0+">
     <information>
         <title>ATMInterface</title>
         <vendor>Ramirez</vendor>

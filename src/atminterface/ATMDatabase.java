@@ -29,9 +29,9 @@ public class ATMDatabase {
             if("Echo".equals(action)){
                 System.out.println("AAA");
                //url = new URL("http://192.168.202.8:8028/icbs/ATMInterfaceListener/echoTest"); // PROD
-             //   url = new URL("http://192.168.206.8:8080/icbs/ATMInterfaceListener/echoTest"); // TEST
+                url = new URL("http://192.168.206.8:8080/icbs/ATMInterfaceListener/echoTest"); // TEST
              // url = new URL("http://192.168.11.8:8080/icbs/ATMInterfaceListener/echoTest"); // DR
-             url = new URL("http://localhost:8040/icbs/ATMInterfaceListener/echoTest");
+            // url = new URL("http://localhost:8040/icbs/ATMInterfaceListener/echoTest");
 		//	url = new URL("http://192.168.0.23:8080/icbs/ATMInterfaceListener/echoTest");
                // String response = (String)inputParams.get("echoResponse");
                // return response; 
@@ -39,9 +39,9 @@ public class ATMDatabase {
             if("Transaction".equals(action)){
                 System.out.println("pumasok..");
            //   url = new URL("http://192.168.202.8:8028/icbs/ATMInterfaceListener/createTransaction"); // PROD
-            //   url = new URL("http://192.168.206.8:8080/icbs/ATMInterfaceListener/createTransaction"); // TEST
+               url = new URL("http://192.168.206.8:8080/icbs/ATMInterfaceListener/createTransaction"); // TEST
            // url = new URL("http://192.168.11.8:8080/icbs/ATMInterfaceListener/createTransaction"); // DR
-             url = new URL("http://localhost:8040/icbs/ATMInterfaceListener/createTransaction");
+            // url = new URL("http://localhost:8040/icbs/ATMInterfaceListener/createTransaction");
 		//    url = new URL("http://192.168.0.23:8080/icbs/ATMInterfaceListener/createTransaction");
             }
             

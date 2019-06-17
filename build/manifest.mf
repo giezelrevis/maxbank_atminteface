@@ -2,12 +2,11 @@ Manifest-Version: 1.0
 Ant-Version: Apache Ant 1.9.4
 Created-By: 1.7.0_80-b15 (Oracle Corporation)
 X-COMMENT: Main-Class will be added automatically by build
-Codebase: C:\Users\Admin\Documents\NetBeansProjects\ATMInterface-12162
- 015\dist
-Application-Library-Allowable-Codebase: C:\Users\Admin\Documents\NetBe
- ansProjects\ATMInterface-12162015\dist
-Caller-Allowable-Codebase: C:\Users\Admin\Documents\NetBeansProjects\A
- TMInterface-12162015\dist
+Codebase: C:\Users\Admin\Documents\GitHub\maxbank_atminteface\dist
+Application-Library-Allowable-Codebase: C:\Users\Admin\Documents\GitHu
+ b\maxbank_atminteface\dist
+Caller-Allowable-Codebase: C:\Users\Admin\Documents\GitHub\maxbank_atm
+ inteface\dist
 Permissions: sandbox
 Application-Name: ATMInterface
 
